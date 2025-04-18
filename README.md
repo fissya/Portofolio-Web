@@ -139,6 +139,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For any questions or suggestions, please contact:
 
-Your Name - your.email@example.com
-
-Project Link: [https://github.com/yourusername/portfolio-website](https://github.com/yourusername/portfolio-website)
+Hafizh - fissyaneet@gmail.com
